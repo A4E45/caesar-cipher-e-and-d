@@ -1,6 +1,5 @@
 """
 ========================================
-|Created by : Ali Abdallah Said Mahmoud|
 |Date : 30/12/2018                     |
 ========================================
 This programme is used to encrypt the messgae and decrypt the message with (Caesar Cipher) 
